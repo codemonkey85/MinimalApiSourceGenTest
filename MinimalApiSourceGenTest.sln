@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalApiSourceGenTest", "MinimalApiSourceGenTest\MinimalApiSourceGenTest.csproj", "{C716B084-C822-4211-A849-B7731F150E52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSourceGenerators", "ApiSourceGenerators\ApiSourceGenerators.csproj", "{3F7D54C7-B48B-4BA7-A148-7DB706AF856E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C716B084-C822-4211-A849-B7731F150E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C716B084-C822-4211-A849-B7731F150E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C716B084-C822-4211-A849-B7731F150E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C716B084-C822-4211-A849-B7731F150E52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F7D54C7-B48B-4BA7-A148-7DB706AF856E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7D54C7-B48B-4BA7-A148-7DB706AF856E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7D54C7-B48B-4BA7-A148-7DB706AF856E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7D54C7-B48B-4BA7-A148-7DB706AF856E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {393FE6EE-AF43-40B6-970A-3870964E29F9}
+	EndGlobalSection
+EndGlobal
